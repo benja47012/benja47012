@@ -2,7 +2,6 @@
 <h1 align="center">Hola soy Benjamin Yolli </h1>
 </div>
 <h2>Descripcion</h2>
- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 Estudiante de sexto año en electrónica en la institución “2 de abril” de Temperley, durante mi formación en la escuela secundaria la cual me educa he adquirió una sólida base de conocimientos en electrónica y desarrolló habilidades técnicas esenciales para mi futura carrera. Mi enfoque es combinar la teoría y la práctica convertirme en un futuro profesional competente para el mundo laboral y el ámbito de la electrónica.
 <h2>Habilidades:</h2>
  <br>

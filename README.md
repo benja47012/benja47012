@@ -7,8 +7,6 @@
    <h2> Skills <img src = "https://media.giphy.com/media/vQxPcfsGdaOzgtwAPH/giphy.gif" width = 32px> </h2>
  ## Mis abilidades
  
- <img width="30%" align="right" alt="Github" src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" />
-
 -Programador
 <br>
 -desarrollador de proyectos

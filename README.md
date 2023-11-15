@@ -4,7 +4,7 @@
 <h2>Descripcion</h2>
 
 Estudiante de sexto año en electrónica en la institución “2 de abril” de Temperley, durante mi formación en la escuela secundaria la cual me educa he adquirió una sólida base de conocimientos en electrónica y desarrolló habilidades técnicas esenciales para mi futura carrera. Mi enfoque es combinar la teoría y la práctica convertirme en un futuro profesional competente para el mundo laboral y el ámbito de la electrónica.
-Habilidades:
+<h2>Habilidades:</h2>
  <br>
  • Amplia comprensión de principios eléctricos y electrónicos.
   <br>
@@ -42,7 +42,7 @@ A lo que aspiro como metas profesionales:
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt = "c++" height = "40" width = "40" />
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt = "html" height = "40" width = "40" />
   
-<h2> Contactame atraves de: </h2>
+<h3> Contactame atraves de: </h3>
 <br>
 <p align="center">
  <a href="mailto:benjayolli@gmail.com">
